@@ -2,7 +2,7 @@
 
 🚀 Sobre mim
 
-💻 Desenvolvedora apaixonada por tecnologia e inovação.
+💻 Desenvolvedora explorando e aprendendo nesse universo da tecnologia
 
 🎯 Em transição de carreira para Desenvolvimento Front-End/Back-End e buscando oportunidades como Desenvolvedora Júnior.
 
