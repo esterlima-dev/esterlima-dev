@@ -1,24 +1,38 @@
-## Bem-vindo(a) ao perfil da Ester Lima 👩🏻‍💻
+Olá, eu sou a Ester Lima 👩‍💻
 
- <div>
-   <a href="https://github.com/devemdobro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esterlima-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esterlima-dev&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-  <a href="https://instagram.com/esterlima.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:estersldev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/esterlima-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+🚀 Desenvolvedora em constante evolução, apaixonada por tecnologia e pela criação de soluções que transformam ideias em realidade.
 
+🎯 Em transição de carreira para Desenvolvimento Web e buscando oportunidades.
+
+
+👀 Meus interesses
+
+🔹 Desenvolvimento Web e Mobile
+
+🔹 Projetos Open Source
+
+💡 Tecnologias que utilizo
+
+📌 Front-End: React.js, JavaScript, CSS, HTML
+
+📌 Back-End: Java, Python
+
+📌 Data Analytics: Power BI, SQL, POWER QUERY
+
+📌 Como transformar ideias em código funcional 🚀
+
+💡 Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado, desde aplicações web até soluções voltadas para automação, análise de dados e jogo desenvolvido em Java.
+
+👩🏻‍💻 Um pouco sobre mim
+
+Transformando curiosidade em conhecimento e conhecimento em projetos.
+
+Acredito que a melhor forma de aprender é construindo, errando, corrigindo e evoluindo um passo de cada vez.
+
+📫 Vamos nos conectar?
+
+LinkedIn: www.linkedin.com/in/esterlima-dev
+
+Instagram: @esterlima.dev
+
+E-mail: estersldev@gmail.com
